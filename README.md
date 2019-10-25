@@ -2,6 +2,8 @@
 
 The presentations given by me
 
-- Honeynet Project Conference 2019, [Revealing Deceivers by Fingerprinting All the Things](https://austria2019.honeynet.org/speakers.html#adel-karimi)
-- AusCERT 2019, [Profiling and Clustering Internet-Wide Scans with FATT](AusCERT2019-Profiling_and_Clustering_Internet-Wide_Scans_with_FATT.pdf)
-- BSides Canberra 2019, Ben Reardon and Adel Karimi, [HASSH - a Profiling Method for SSH Clients and Servers](https://github.com/benjeems/Presentations/blob/master/BSides%202019%20%20-%20HASSH%20-%20a%20Profiling%20Method%20for%20SSH%20Clients%20and%20Servers.pdf)
+- Kawaiicon/Kiwicon 2019, "Seeing The Invisible: Finding Fingerprints on Encrypted Traffic" (lightning version) - [[Video](https://youtu.be/RLYRt2srbl0)]
+- CHCon'19, "Seeing The Invisible: Finding Fingerprints on Encrypted Traffic" - [[Slides](docs/chcon19_seeing-the-invisible.pdf)]
+- Honeynet Project Conference 2019, "Revealing Deceivers by Fingerprinting All the Things"
+- AusCERT 2019, "Profiling and Clustering Internet-Wide Scans with FATT"
+- BSides Canberra 2019, Ben Reardon and Adel Karimi, "HASSH - a Profiling Method for SSH Clients and Servers", [[Slides](docs/bsidescbr19_hassh.pdf), [Video](https://youtu.be/vgxWMXyaMQI)]
